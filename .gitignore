@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+.pytest_cache/
+
+# Environment & secrets
+.env
+
+# Editor settings
+.vscode/
+
+# Generated / runtime files
+*.db
+*.json
+*.txt
+
+# Wake word / binary models
+*.ppn
+
+# OS files
+.DS_Store
+
