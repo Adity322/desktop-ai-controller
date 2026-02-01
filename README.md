@@ -2,9 +2,9 @@
 desktop AI system for voice &amp; keyboard-based automation with modular command execution
 # Desktop AI Controller 🤖💻
 
-**Desktop AI Controller** is an offline, modular AI system designed to control desktop operations using **voice commands and keyboard input**.  
+**Desktop AI Controller** is an online modular AI system designed to control desktop operations using **voice commands and keyboard input**.  
 It focuses on system automation, clean backend architecture, and real-world usability.
-
+It is designed for cross platform like it can work on all operating system like macos,linux,windows.
 This project is inspired by the idea of intelligent assistants, but is built **from scratch** with an emphasis on **engineering, modularity, and extensibility**.
 
 ---
@@ -12,10 +12,9 @@ This project is inspired by the idea of intelligent assistants, but is built **f
 ## 🚀 Features
 
 - 🎙️ Voice-based command execution  
-- ⌨️ Keyboard fallback for reliability  
+- ⌨️ Keyboard fallback for reliability - Can control the entire system it can open the apps available on the system it can also adjust the sound and brightness of system. 
 - 🧠 Modular command architecture  
 - 🖥️ Desktop-level automation  
-- 🔌 Offline-first design  
 - 🛠️ Easy to extend with new commands
 
 ---
