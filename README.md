@@ -14,7 +14,10 @@ This project is inspired by the idea of intelligent assistants, but is built **f
 - 🎙️ Voice-based command execution  
 - ⌨️ Keyboard fallback for reliability - Can control the entire system it can open the apps available on the system it can also adjust the sound and brightness of system. 
 - 🧠 Modular command architecture  
-- 🖥️ Desktop-level automation  
+- 🖥️ Desktop-level automation
+- It can send the whatsapp message to any person you want by just taking the name of that contact
+- It can directly play the youtube videos you just have to give the name of that video
+- It can search for the any file present in your system and open it to you
 - 🛠️ Easy to extend with new commands
 
 ---
