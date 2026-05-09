@@ -90,4 +90,3 @@ This repository reflects:
 - System-level thinking
 - Real engineering decisions
 
-Feel free to explore, fork, or suggest improvements.
